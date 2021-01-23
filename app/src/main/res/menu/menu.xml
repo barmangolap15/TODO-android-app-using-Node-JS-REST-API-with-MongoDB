@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:title="@string/home"
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_home" />
+        <item
+            android:title="@string/finished_task"
+            android:id="@+id/action_finished_task"
+            android:icon="@drawable/finished_task"/>
+        <item
+            android:title="@string/logout"
+            android:id="@+id/action_logout"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+</menu>

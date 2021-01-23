@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0c0c0c</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="dotsColor">#757575</color>
+    <color name="textColor">#555555</color>
+    <color name="cardColor">#333333</color>
+    <color name="inputfield">#D5D5D5</color>
+    <color name="buttonColor">#fa5805</color>
+    <color name="background">#00000000</color>
+    <color name="backgroundMain">#171717</color>
+
+
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="white_one" type="color">#FFFFFF</item>
+
+    <integer-array name="androidColors">
+        <item>@color/white</item>
+        <item>@color/white_one</item>
+        <item>@color/white</item>
+        <item>@color/white_one</item>
+    </integer-array>
+</resources>

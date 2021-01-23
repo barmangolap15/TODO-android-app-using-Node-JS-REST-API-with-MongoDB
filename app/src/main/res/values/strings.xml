@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TODO</string>
+
+    <string name="onboarding_title1">To-Do List</string>
+    <string name="onboarding_title2">Daily Target</string>
+    <string name="onboarding_title3">Anywhere and Anytime</string>
+    <string name="onboarding_title4">Accessible</string>
+    <string name="onboarding_des1">Create Your daily List.</string>
+    <string name="onboarding_des2">Set your daily target.</string>
+    <string name="onboarding_des3">Create notes anywhere and anytime.</string>
+    <string name="onboarding_des4">Easily accessible.</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="explore">There is a lot to explore!</string>
+    <string name="email">Enter your Email ID</string>
+    <string name="email_demo">ex: xyz@domain.com</string>
+    <string name="password">Enter your Password</string>
+    <string name="password_demo">*******</string>
+    <string name="signInbtn">SIGN IN</string>
+
+    <string name="signUp">Sign Up</string>
+    <string name="create">Create your account</string>
+    <string name="name">Enter your name</string>
+    <string name="name_demo">ex: Mark XYZ</string>
+    <string name="signupbtn">SIGN UP</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+
+    <string name="already">Already have an account?</string>
+    <string name="notsignup">Not signed up yet?</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_id">Your Email id</string>
+    <string name="home">Home</string>
+    <string name="finished_task">Finished Task</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">navigation_drawer_open</string>
+    <string name="drawer_close">navigation_drawer_close</string>
+    <string name="hello_finished_fragment">finished fragemnt</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="skip">Skip</string>
+    <string name="version">Version</string>
+    <string name="add_a_task_click_button">Add a task, Click <b>+</b> button</string>
+</resources>
